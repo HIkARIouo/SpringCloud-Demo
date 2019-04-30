@@ -26,7 +26,10 @@
         <module>microservicecloud-eureka-7001</module>
         <module>microservicecloud-eureka-7002</module>
         <module>microservicecloud-provider-dept-8002</module>
+<<<<<<< HEAD
         <module>microservicecloud-consumer-dept-feign</module>
+=======
+>>>>>>> b0256079829f0361d340d8766d8306ddaf9dac15
     </modules>
     <dependencies>
         <dependency>

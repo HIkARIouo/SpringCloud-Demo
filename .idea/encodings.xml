@@ -4,7 +4,10 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-consumer-dept-81" charset="UTF-8" />
+<<<<<<< HEAD
     <file url="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign" charset="UTF-8" />
+=======
+>>>>>>> b0256079829f0361d340d8766d8306ddaf9dac15
     <file url="file://$PROJECT_DIR$/microservicecloud-eureka-7001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-eureka-7002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001" charset="UTF-8" />

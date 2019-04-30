@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/microservicecloud-api/microservicecloud-api.iml" filepath="$PROJECT_DIR$/microservicecloud-api/microservicecloud-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicecloud-consumer-dept-81/microservicecloud-consumer-dept-81.iml" filepath="$PROJECT_DIR$/microservicecloud-consumer-dept-81/microservicecloud-consumer-dept-81.iml" />
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/microservicecloud-consumer-dept-feign.iml" filepath="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/microservicecloud-consumer-dept-feign.iml" />
+=======
+>>>>>>> b0256079829f0361d340d8766d8306ddaf9dac15
       <module fileurl="file://$PROJECT_DIR$/microservicecloud-eureka-7002/microservicecloud-eureka-7002.iml" filepath="$PROJECT_DIR$/microservicecloud-eureka-7002/microservicecloud-eureka-7002.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/microservicecloud-provider-dept-8001.iml" filepath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/microservicecloud-provider-dept-8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicecloud-provider-dept-8002/microservicecloud-provider-dept-8002.iml" filepath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/microservicecloud-provider-dept-8002.iml" />

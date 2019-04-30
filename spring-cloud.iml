@@ -12,8 +12,11 @@
       <sourceFolder url="file://$MODULE_DIR$/microservicecloud-consumer-dept-81/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/microservicecloud-consumer-dept-81/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/microservicecloud-consumer-dept-81/src/test" isTestSource="true" />
+<<<<<<< HEAD
       <sourceFolder url="file://$MODULE_DIR$/microservicecloud-consumer-dept-feign/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/microservicecloud-consumer-dept-feign/src/main/resources" type="java-resource" />
+=======
+>>>>>>> b0256079829f0361d340d8766d8306ddaf9dac15
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />

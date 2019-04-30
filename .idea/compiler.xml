@@ -11,7 +11,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="microservicecloud-api" />
         <module name="microservicecloud-consumer-dept-81" />
+<<<<<<< HEAD
         <module name="microservicecloud-consumer-dept-feign" />
+=======
+>>>>>>> b0256079829f0361d340d8766d8306ddaf9dac15
         <module name="microservicecloud-eureka-7002" />
         <module name="microservicecloud-provider-dept-8001" />
         <module name="microservicecloud-provider-dept-8002" />
@@ -21,7 +24,10 @@
     <bytecodeTargetLevel>
       <module name="microservicecloud-api" target="1.8" />
       <module name="microservicecloud-consumer-dept-81" target="1.8" />
+<<<<<<< HEAD
       <module name="microservicecloud-consumer-dept-feign" target="1.8" />
+=======
+>>>>>>> b0256079829f0361d340d8766d8306ddaf9dac15
       <module name="microservicecloud-eureka-7002" target="1.8" />
       <module name="microservicecloud-provider-dept-8001" target="1.8" />
       <module name="microservicecloud-provider-dept-8002" target="1.8" />
