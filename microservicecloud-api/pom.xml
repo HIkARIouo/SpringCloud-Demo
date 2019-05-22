@@ -18,26 +18,20 @@
 
     <dependencies>
         <dependency>
-<<<<<<< HEAD
-=======
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
 
         <dependency>
->>>>>>> b0256079829f0361d340d8766d8306ddaf9dac15
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <optional>true</optional>
         </dependency>
         <dependency>
-<<<<<<< HEAD
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-feign</artifactId>
         </dependency>
-    </dependencies>
-
-=======
+        <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
@@ -52,6 +46,5 @@
             </plugin>
         </plugins>
     </build>
->>>>>>> b0256079829f0361d340d8766d8306ddaf9dac15
 
 </project>

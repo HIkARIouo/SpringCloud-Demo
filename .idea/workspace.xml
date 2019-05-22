@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
     <list default="true" id="5cb2b5ab-f1d7-47e0-a4e5-d73828363781" name="Default Changelist" comment="feign">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-=======
     <list default="true" id="5cb2b5ab-f1d7-47e0-a4e5-d73828363781" name="Default Changelist" comment="" />
->>>>>>> b0256079829f0361d340d8766d8306ddaf9dac15
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/microservicecloud-api/target/" />
@@ -17,10 +14,7 @@
     <ignored path="$PROJECT_DIR$/microservicecloud-eureka-7001/target/" />
     <ignored path="$PROJECT_DIR$/microservicecloud-eureka-7002/target/" />
     <ignored path="$PROJECT_DIR$/microservicecloud-provider-dept-8002/target/" />
-<<<<<<< HEAD
     <ignored path="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/target/" />
-=======
->>>>>>> b0256079829f0361d340d8766d8306ddaf9dac15
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,22 +24,18 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
               <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-=======
         <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-81/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="169">
               <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
->>>>>>> b0256079829f0361d340d8766d8306ddaf9dac15
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/yhj/springcloud/cfgbeans/ConfigBean.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,19 +50,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
               <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
-=======
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="223">
               <caret line="33" column="2" lean-forward="true" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
->>>>>>> b0256079829f0361d340d8766d8306ddaf9dac15
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/yhj/springcloud/microservicecloud/api/service/DeptClientService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">

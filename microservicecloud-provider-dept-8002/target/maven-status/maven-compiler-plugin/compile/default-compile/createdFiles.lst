@@ -1,5 +1,0 @@
-com\yhj\springcloud\MicroservicecloudProviderDept8002Application.class
-com\yhj\springcloud\mapper\DeptMapper.class
-com\yhj\springcloud\service\DeptService.class
-com\yhj\springcloud\service\impl\DeptServiceImpl.class
-com\yhj\springcloud\controller\DeptController.class

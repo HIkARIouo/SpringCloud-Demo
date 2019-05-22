@@ -1,5 +1,4 @@
 package com.yhj.springcloud.controller;
-
 import com.yhj.springcloud.microservicecloud.api.entity.Dept;
 import com.yhj.springcloud.microservicecloud.api.service.DeptClientService;
 import org.springframework.beans.factory.annotation.Autowired;
