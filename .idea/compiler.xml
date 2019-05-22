@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <excludeFromCompile>
-      <file url="file://$PROJECT_DIR$/microservicecloud-consumer-dept-81/src/main/java/com/yhj/springcloud/cfgbeans/ConfigBean.java" />
-    </excludeFromCompile>
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -11,35 +8,22 @@
         <outputRelativeToContentRoot value="true" />
         <module name="microservicecloud-api" />
         <module name="microservicecloud-consumer-dept-81" />
-<<<<<<< HEAD
         <module name="microservicecloud-consumer-dept-feign" />
-=======
->>>>>>> b0256079829f0361d340d8766d8306ddaf9dac15
+        <module name="microservicecloud-eureka-7001" />
         <module name="microservicecloud-eureka-7002" />
         <module name="microservicecloud-provider-dept-8001" />
         <module name="microservicecloud-provider-dept-8002" />
-        <module name="microservicecloudeureka7001" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="microservicecloud-api" target="1.8" />
+      <module name="microservicecloud-api" target="1.5" />
       <module name="microservicecloud-consumer-dept-81" target="1.8" />
-<<<<<<< HEAD
       <module name="microservicecloud-consumer-dept-feign" target="1.8" />
-=======
->>>>>>> b0256079829f0361d340d8766d8306ddaf9dac15
+      <module name="microservicecloud-eureka-7001" target="1.8" />
       <module name="microservicecloud-eureka-7002" target="1.8" />
       <module name="microservicecloud-provider-dept-8001" target="1.8" />
       <module name="microservicecloud-provider-dept-8002" target="1.8" />
-      <module name="microservicecloudeureka7001" target="1.8" />
       <module name="spring-cloud" target="1.8" />
     </bytecodeTargetLevel>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="microservicecloud-api" options="" />
-      <module name="microservicecloud-provider-dept-8001" options="" />
-      <module name="spring-cloud" options="-parameters" />
-    </option>
   </component>
 </project>
