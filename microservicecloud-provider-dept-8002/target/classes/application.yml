@@ -33,5 +33,5 @@ eureka:
 info:
   app.name: yhj-microservicecloud
   company.name: www.yhj.com
-  build.artifactId: ${project.artifactId}
-  build.version: ${project.version}
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
